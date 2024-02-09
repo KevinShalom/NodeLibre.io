@@ -1,5 +1,5 @@
 {
-    "name": "artichoke_chat",
+    "name": "chat_node",
     "version": "1.0.0",
     "description": "A Simple Chat Client",
     "main": "server.js",
@@ -8,19 +8,19 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/irevenko/ArtichokeChat.git"
+        "url": "https://github.com/KevinShalom/NodeLibre.io"
     },
     "keywords": [
         "chat",
         "socket.io",
         "express"
     ],
-    "author": "Ilya Revenko <ilya.revenko17@gmail.com>",
+    "author": "",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/irevenko/ArtichokeChat/issues"
+        "url": "https://github.com/KevinShalom/NodeLibre.io"
     },
-    "homepage": "https://github.com/irevenko/ArtichokeChat#readme",
+    "homepage": "https://github.com/KevinShalom/NodeLibre.io",
     "dependencies": {
         "express": "^4.17.1",
         "socket.io": "^2.3.0"
